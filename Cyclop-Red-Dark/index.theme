@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Cyclop-Red-Dark
+Comment=An Materia Gtk+ theme based on Orchis
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Cyclop-Red-Dark
+MetacityTheme=Cyclop-Red-Dark
+IconTheme=Tela-circle-red
+CursorTheme=Nordzy-cursors
+ButtonLayout=close,minimize,maximize:menu
